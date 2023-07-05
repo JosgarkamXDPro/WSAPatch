@@ -1,4 +1,4 @@
-name: Build WsaPatch.dll
+run-name: Build WsaPatch.dll
 
 on:
   push:
